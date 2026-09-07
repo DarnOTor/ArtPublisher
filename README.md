@@ -1,4 +1,4 @@
-# Art Publisher Agent+
+# Art Publisher Agent
 
 A desktop publishing assistant for artists. AI assistance is completely optional.
 
