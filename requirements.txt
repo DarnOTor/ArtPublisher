@@ -1,0 +1,5 @@
+PySide6
+python-dotenv
+python-telegram-bot==22.8
+requests
+requests-oauthlib
